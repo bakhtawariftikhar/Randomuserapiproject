@@ -1,0 +1,25 @@
+h1 {
+  font-weight: bolder;
+  text-align: center;
+  color: yellow;
+}
+
+  form { 
+    font-weight: bolder;
+    background-color: grey;
+    color: black; 
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+button {
+  background-color: grey ;
+  text-align: center;
+  border-color: black;
+  
+}
+
+
+
+
